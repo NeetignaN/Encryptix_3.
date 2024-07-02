@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    background-color: rgba(210, 157, 174, 0.586);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.calculator {
+    width: 300px;
+    padding: 15px;
+    margin: 10px auto;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+#display {
+    font-size: 20px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 20px;
+}
